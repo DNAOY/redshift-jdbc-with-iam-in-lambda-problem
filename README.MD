@@ -3,8 +3,8 @@
 Steps to reproduce (run with proper credentials present in either environment variables or `~/.aws/credentials`):
 
     ./install.sh
-
-This should produce the following:
+    
+This will compile, install and invoke the function and produce a `out.log` file with the following content:
 
 ```
 0% cat out.log
